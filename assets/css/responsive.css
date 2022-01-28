@@ -1,0 +1,20 @@
+@media screen and (max-width: 767px) {
+  .single-slide-item h2 {
+    font-size: 45px;
+  }
+  .single-slide-item {
+    padding-top: 100px;
+  }
+}
+
+@media screen and (max-width: 440px) {
+  .single-slide-item a.slide-btn {
+    font-size: 10px;
+  }
+  .single-slide-item h2 {
+    font-size: 30px;
+  }
+  .single-slide-item p {
+    font-size: 16px;
+  }
+}
